@@ -1,0 +1,1 @@
+//strip api for payment
